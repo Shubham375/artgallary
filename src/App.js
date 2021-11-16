@@ -63,7 +63,7 @@ function App() {
  </div>
  <div className="col">
  <Card 
- imsrc="image/profeser.jpg"
+ imsrc="image/profeser.JPG"
  imalt="avatar" 
  name="Professor"
  about="created by Shubham"
